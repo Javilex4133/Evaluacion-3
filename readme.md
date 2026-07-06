@@ -103,8 +103,6 @@ Desde cualquier navegador en la misma red, entra a:
 http://IP_DE_TU_VM:5000
 ```
 
-Ahí verás el monitor estilo terminal con el estado del sistema, la última medición, el historial desde Supabase, y el botón de activación manual.
-
 ### Paso 5: Probar el sistema
 
 - Espera unos segundos: la Tarjeta 1 enviará automáticamente una medición cada 3 segundos.
