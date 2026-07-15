@@ -1,5 +1,8 @@
 # Sistema IoT: Sensor de Distancia con Actuación y Registro en la Nube
 
+#Javier Aravena
+#Marco Dugarte 
+
 ## 1. ¿Qué es este proyecto?
 
 Este proyecto es un sistema IoT que mide una variable física (distancia), la transmite de forma inalámbrica, la registra en una base de datos en la nube, y actúa físicamente en base a esa medición. Está compuesto por dos tarjetas ESP32-C3, un backend en Flask (Python), y una base de datos en Supabase.
